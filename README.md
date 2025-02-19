@@ -4,6 +4,7 @@
 - Unit 2 = Introduction to Q-Learning
 - Unit 3 = Deep Q-Learning
 - Unit 4 = Policy Gradient
+- Unit 6 = Advantage Actor Critic (A2C)
 
 ## Docs
 - https://huggingface.co/learn/deep-rl-course/en/unit0/introduction
