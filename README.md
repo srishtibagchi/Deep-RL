@@ -4,6 +4,7 @@
 - Unit 2 = Introduction to Q-Learning
 - Unit 3 = Deep Q-Learning
 - Unit 4 = Policy Gradient
+- Unit 5 = Introduction to Unity ML
 - Unit 6 = Advantage Actor Critic (A2C)
 
 ## Docs
