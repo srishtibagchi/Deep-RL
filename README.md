@@ -11,6 +11,7 @@ Deep Reinforcement Learning [course](https://huggingface.co/learn/deep-rl-course
 - Unit 5: Introduction to Unity ML
 - Unit 6: Advantage Actor Critic (A2C)
 - Unit 7: Introduction to Multi-Agents Reinforcement Learning
+- Unit 8: Proximal Policy Optimization in Pytorch
 
 ## Topics
 
@@ -22,6 +23,8 @@ Deep Reinforcement Learning [course](https://huggingface.co/learn/deep-rl-course
 - policy-gradient methods
 - actor-critic methods
 - multi-agent RL
+- PPO
+- clipped surrogate objective function
 
 ## Reading
 - [Introduction to Deep Reinforcement Learning](https://huggingface.co/learn/deep-rl-course/en/unit0/introduction)
@@ -35,5 +38,13 @@ Deep Reinforcement Learning [course](https://huggingface.co/learn/deep-rl-course
 - [Making Sense of the Bias / Variance Trade-off in (Deep) Reinforcement Learning](https://blog.mlreview.com/making-sense-of-the-bias-variance-trade-off-in-deep-reinforcement-learning-79cf1e83d565)
 - [Multi-agent reinforcement learning: An overview](https://www.dcsc.tudelft.nl/~bdeschutter/pub/rep/10_003.pdf)
 - [Multiagent Reinforcement Learning, Marc Lanctot](https://rlss.inria.fr/files/2019/07/RLSS_Multiagent.pdf)
+- [Towards Delivering a Coherent Self-Contained Explanation of Proximal Policy Optimization by Daniel Bick](https://fse.studenttheses.ub.rug.nl/25709/1/mAI_2021_BickD.pdf)
+- [What is the way to understand Proximal Policy Optimization Algorithm in RL?](https://stackoverflow.com/questions/46422845/what-is-the-way-to-understand-proximal-policy-optimization-algorithm-in-rl)
+- [Foundations of Deep RL Series, L4 TRPO and PPO by Pieter Abbeel](https://youtu.be/KjWF8VIMGiY)
+- [OpenAI PPO Blogpost](https://openai.com/blog/openai-baselines-ppo/)
+- [Spinning Up RL PPO](https://spinningup.openai.com/en/latest/algorithms/ppo.html)
+- [Paper Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
+- [The 37 Implementation Details of Proximal Policy Optimization](https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/)
+- [Part 1 of 3 — Proximal Policy Optimization Implementation: 11 Core Implementation Details](https://www.youtube.com/watch?v=MEt6rrxH8W4)
 
 
